@@ -65,5 +65,4 @@ function fis = trapeziErgasiasFIS()
                 6 9 2 1 1; 7 9 3 1 1; 8 9 4 1 1; 9 9 5 1 1];
         
     fis = addrule(fis, ruleList);
-    
 end
