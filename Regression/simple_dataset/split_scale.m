@@ -1,5 +1,6 @@
 %% Split - Preprocess Data
 
+
 function [trnData,valData,chkData] = split_scale(data,preproc)
 
     idx=randperm(length(data));
